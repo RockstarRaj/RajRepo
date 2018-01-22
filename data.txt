@@ -2,3 +2,4 @@
 141.31€
 $199.99
 This is commit from new branch
+This is second commit from new branch
