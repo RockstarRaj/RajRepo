@@ -1,5 +1,6 @@
-£123.95
-141.31€
-$199.99
+ï»¿Â£123.96 values changed
+141.31â‚¬
+$199.30 #Changed value
 This is commit from new branch
+commit from Git hub Repo
 This is second commit from new branch
