@@ -1,4 +1,5 @@
-£123.95
-141.31€
+Â£123.95
+141.31â‚¬
 $199.99
 This is commit from new branch
+commit from Git hub Repo
